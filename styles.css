@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+}
+i{
+    margin-left: 20px;
+}
